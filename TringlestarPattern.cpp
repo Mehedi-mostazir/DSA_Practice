@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {   
     int row;
-    cout<< "Please enter the row :";
+    cout<< "Please enter the row number :";
     cin>>row;
 
     for(int i=0; i<row; i++)
